@@ -175,3 +175,6 @@ uploadfile
 *.json
 .vscode
 .cursor
+
+# Ignore web lock
+pnpm-lock.yaml
